@@ -12,7 +12,7 @@ This repository contains Java Core questions and answers.
 ### 9.	[Статический/динамический полиморфизм.](questions/q9.md)
 ### 10.	[Что является членами класса.](questions/q10.md)
 ### 11.	[Расскажите подробно как переопределяются/перегружаются методы классов наследников.](questions/q11.md)
-### 12.	[JVN, JRE, JDK.](questions/q12.md)
+### 12.	[JVM, JRE, JDK.](questions/q12.md)
 ### 13.	[Расскажите что такое classpath java, общее правило именования пакетов java.](questions/q13.md)
 ### 14.	[Расскажите про интерфейсы Comparator, Comparable и их применение.](questions/q14.md)
 ### 15.	[Расскажите про класс String, пул строк.](questions/q15.md)
